@@ -3,3 +3,5 @@ venv
 *.pyc
 valid_data/
 training_input/
+phishshield_core
+Network_Data
