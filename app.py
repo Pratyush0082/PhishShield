@@ -23,7 +23,8 @@ database = client[DATA_INGESTION_DATABASE_NAME]
 collection = database[DATA_INGESTION_COLLECTION_NAME]
 
 st.set_page_config(page_title="Phishing URL Detection", layout="wide")
-st.title("🔍 Phishing URL Detection")
+st.title("🛡️ PhishShield AI")
+st.markdown("### AI-Powered Phishing Threat Detection Platform")
 
 # -------- Train Model --------
 if st.button("Train Model"):
