@@ -1,2 +1,9 @@
 venv
 .env
+__pycache__/
+*.pyc
+logs/
+mlruns/
+prediction_output/
+valid_data/
+training_input/

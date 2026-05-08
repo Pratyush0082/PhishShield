@@ -1,26 +1,39 @@
 # PhishShield
 
-PhishShield is an AI-powered cybersecurity and phishing detection system designed to identify suspicious network activity and potential threats in real time.
+PhishShield is an AI-powered phishing detection and network security monitoring platform designed to detect suspicious activities and improve cybersecurity defense using machine learning.
 
 ## Features
-- Phishing threat detection
+
+- Real-time phishing detection
 - Network traffic monitoring
-- Real-time analysis
-- Machine learning integration
-- Security alert system
+- Machine learning threat analysis
+- Security dashboard
+- Automated alert system
 
 ## Tech Stack
+
 - Python
 - Flask
 - Machine Learning
 - HTML/CSS
 - JavaScript
 
+## Installation
+
+```bash
+git clone https://github.com/Pratyush0082/PhishShield.git
+cd PhishShield
+pip install -r requirements.txt
+python app.py
+```
+
 ## Future Improvements
-- Admin dashboard
+
+- Dark mode UI
 - Live threat visualization
-- Email phishing detection
+- Email phishing scanner
 - Cloud deployment
 
 ## Author
+
 Pratyush Kumar Sahu
