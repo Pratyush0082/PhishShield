@@ -1,4 +1,4 @@
-# PhishShield
+# PhishShield AI
 
 PhishShield is an AI-powered phishing detection and network security monitoring platform designed to detect suspicious activities and improve cybersecurity defense using machine learning.
 
